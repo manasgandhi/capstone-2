@@ -1,0 +1,35 @@
+.intro-background {
+    width: 100%;
+    height: 100vh;
+}
+.intro-slide {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+.introline1 {
+    font-size: 5em;
+    font-family: 'Merriweather', serif;
+}
+.introline2 {
+    font-size: 3em;
+    font-family: 'Roboto', sans-serif;
+}
+.heroline1 {
+    font-size: 4em;
+    font-family: 'Merriweather', serif;
+}
+.heroline2 {
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+}
+.foot {
+    background-color: black;
+}
